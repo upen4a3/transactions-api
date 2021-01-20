@@ -1,0 +1,14 @@
+/bin/
+/target/
+/junit-reports/
+/reports/
+~
+.project
+.classpath
+.settings/
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
